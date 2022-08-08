@@ -1,2 +1,2 @@
 # edu-portfolio
-Collection of works
+## Personal portfolio for 2020-2022
